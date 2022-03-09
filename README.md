@@ -1,7 +1,7 @@
 # PlayerMovement
 
 Add both of these states to a 3D object with a Player Controller component added to it. One state will allow you to move and control the character around the game scene, including the gravity element with ground checking and a jumping feature.
-The other state will allow you to rotate the camera attached to a player, making it able to turn our character around
+The other state will allow you to rotate the camera attached to a player, making it able to turn our character around.
 
 ## Contents
 
